@@ -1,4 +1,4 @@
-time = 22
+time = 20
 # Complete the prompt here
 if (time < 9):
     print("Morning is wonderful. Its only drawback is that it comes at such an inconvenient time of day.")
