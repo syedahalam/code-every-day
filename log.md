@@ -9,3 +9,9 @@ Return: a string formatted as a list of names separated by commas except for the
 Thoughts:
 haven't solved yet in an hour.
 Links:
+
+Day-2: October 15, 2021
+Today's progress:
+Started learning PYTHON
+Thoughts:
+Easy but struggling today!
