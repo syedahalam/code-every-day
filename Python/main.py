@@ -46,3 +46,19 @@
 # print("Your band name could be " + city_name + ' ' + pet_name)
 #5. Make sure the input cursor shows on a new line, see the example at:
 #   https://band-name-generator-end.appbrewery.repl.run/
+
+# Data Type
+
+# 🚨 Don't change the code below 👇
+# two_digit_number = input("Type a two digit number: ")
+# 🚨 Don't change the code above 👆
+
+####################################
+#Write your code below this line 👇
+# numbers = int(two_digit_number)
+# print(type(numbers))
+# a = int(two_digit_number[0])
+# b = int(two_digit_number[1])
+# print(a+b)
+
+##########################################################
