@@ -63,5 +63,7 @@
 
 ##########################################################
 
-#Mathematical operators
-#BMI calculator
+print(8/3)
+print(8//3)
+print(round(8/3))
+print(round(1.2))
