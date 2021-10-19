@@ -79,3 +79,15 @@
 # else:
 #     print("This is an odd number")
 
+height = int(input("What is ur height?"))
+if height > 120:
+    # print("U can ride")
+    age = int(input("What is you age?"))
+    if age >= 18:
+        print("Ticket is $12")
+    elif age < 18 and age > 12:
+        print("Ticket is $7")
+    elif age < 12:
+        print("Ticket is $5 ")
+else:
+    print("not possible")
